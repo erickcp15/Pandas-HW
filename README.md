@@ -1,4 +1,4 @@
-# Homework Assignment - Pandas, Pandas, Pandas
+# Pandas, Pandas, Pandas
 
 ## Heroes of Pymoli - Requirements
 

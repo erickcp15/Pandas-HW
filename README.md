@@ -1,5 +1,7 @@
 # Pandas, Pandas, Pandas
 
+![](Images/Fantasy.png)
+
 ## Heroes of Pymoli - Requirements
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
@@ -12,6 +14,8 @@ Your final report should include each of the following:
 
 * Total Number of Players
 
+![](Images/Player.png)
+
 ### Purchasing Analysis (Total)
 
 * Number of Unique Items
@@ -19,11 +23,15 @@ Your final report should include each of the following:
 * Total Number of Purchases
 * Total Revenue
 
+![](Images/Purch.png)
+
 ### Gender Demographics
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+
+![](Images/3.png)
 
 ### Purchasing Analysis (Gender)
 
@@ -32,6 +40,8 @@ Your final report should include each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
+  
+  ![](Images/4.png)
 
 ### Age Demographics
 
@@ -40,6 +50,8 @@ Your final report should include each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+  
+  ![](Images/5.png)
 
 ### Top Spenders
 
@@ -48,6 +60,8 @@ Your final report should include each of the following:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+  
+  ![](Images/7.png)
 
 ### Most Popular Items
 
@@ -57,6 +71,8 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  
+  ![](Images/8.png)
 
 ### Most Profitable Items
 
@@ -66,3 +82,5 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  
+  ![](Images/9.png)

@@ -84,3 +84,11 @@ Your final report should include each of the following:
   * Total Purchase Value
   
   ![](Images/9.png)
+  
+ ## Observable Trends
+ 
+ * One observable trend is that the vast majority of the players are male being over 80% of Pymoli players.
+ * Another trend is that most of the players of Pymoli are from the ages of 15-29 and the ages of 20-24 account for 44% of the players of the game.
+ * Even though women make far less purchases than men based on the how many men play comparatively to women, women on average spend more than men.
+ * The ages from 35-39 spend more on average than any other age group.
+ * The ages 20-24 is where most of the money is grossed as that is the vast majority of players and they spend the second most on average.
